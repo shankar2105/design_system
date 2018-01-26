@@ -1,0 +1,24 @@
+{
+  "name": "design_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node-sass --output-style expanded scss/main.scss css/safe_design_system.css",
+    "watch": "node-sass -w --output-style expanded scss/main.scss css/safe_design_system.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://shankar2105@github.com/shankar2105/design_system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shankar2105/design_system/issues"
+  },
+  "homepage": "https://github.com/shankar2105/design_system#readme",
+  "dependencies": {
+    "node-sass": "^4.7.2"
+  }
+}

@@ -1,0 +1,832 @@
+.text-black-1 {
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 54px;
+}
+
+@media screen and (max-width: 768px) {
+  .text-black-1 {
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 40px;
+  }
+}
+
+.text-black-2 {
+  font-size: 36px;
+  font-weight: 800;
+  line-height: 40px;
+}
+
+@media screen and (max-width: 768px) {
+  .text-black-2 {
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 27px;
+  }
+}
+
+.text-bold-1 {
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 33px;
+}
+
+@media screen and (max-width: 768px) {
+  .text-bold-1 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 27px;
+  }
+}
+
+.text-bold-2 {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 27px;
+}
+
+@media screen and (max-width: 768px) {
+  .text-bold-2 {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 20px;
+  }
+}
+
+.text-normal-1 {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .text-normal-1 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+  }
+}
+
+.text-normal-2 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+}
+
+.text-normal-3 {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+}
+
+.tcolor-primary-white {
+  color: #ffffff;
+}
+
+.bgcolor-primary-white {
+  background-color: #ffffff;
+}
+
+.tcolor-primary-blue {
+  color: #5593d7;
+}
+
+.bgcolor-primary-blue {
+  background-color: #5593d7;
+}
+
+.tcolor-secondary-red {
+  color: #f20808;
+}
+
+.bgcolor-secondary-red {
+  background-color: #f20808;
+}
+
+.tcolor-secondary-green {
+  color: #9ed167;
+}
+
+.bgcolor-secondary-green {
+  background-color: #9ed167;
+}
+
+.tcolor-secondary-orange {
+  color: #fc9526;
+}
+
+.bgcolor-secondary-orange {
+  background-color: #fc9526;
+}
+
+.tcolor-secondary-yellow {
+  color: #fddf4c;
+}
+
+.bgcolor-secondary-yellow {
+  background-color: #fddf4c;
+}
+
+.tcolor-smoke-dark {
+  color: #555555;
+}
+
+.bgcolor-smoke-dark {
+  background-color: #555555;
+}
+
+.tcolor-smoke-medium {
+  color: #8b8b8b;
+}
+
+.bgcolor-smoke-medium {
+  background-color: #8b8b8b;
+}
+
+.tcolor-smoke-light {
+  color: #c2c1c1;
+}
+
+.bgcolor-smoke-light {
+  background-color: #c2c1c1;
+}
+
+.tcolor-snow-dark {
+  color: #c2c1c1;
+}
+
+.bgcolor-snow-dark {
+  background-color: #c2c1c1;
+}
+
+.tcolor-snow-medium {
+  color: #e4e4e4;
+}
+
+.bgcolor-snow-medium {
+  background-color: #e4e4e4;
+}
+
+.tcolor-snow-light {
+  color: #fafafa;
+}
+
+.bgcolor-snow-light {
+  background-color: #fafafa;
+}
+
+.tcolor-red-100 {
+  color: #a30000;
+}
+
+.bgcolor-red-100 {
+  background-color: #a30000;
+}
+
+.tcolor-red-200 {
+  color: #c80202;
+}
+
+.bgcolor-red-200 {
+  background-color: #c80202;
+}
+
+.tcolor-red-300 {
+  color: #f20808;
+}
+
+.bgcolor-red-300 {
+  background-color: #f20808;
+}
+
+.tcolor-red-400 {
+  color: #fd5454;
+}
+
+.bgcolor-red-400 {
+  background-color: #fd5454;
+}
+
+.tcolor-red-500 {
+  color: #ffbbbb;
+}
+
+.bgcolor-red-500 {
+  background-color: #ffbbbb;
+}
+
+.tcolor-purple-100 {
+  color: #450085;
+}
+
+.bgcolor-purple-100 {
+  background-color: #450085;
+}
+
+.tcolor-purple-200 {
+  color: #6904c6;
+}
+
+.bgcolor-purple-200 {
+  background-color: #6904c6;
+}
+
+.tcolor-purple-300 {
+  color: #8c15f9;
+}
+
+.bgcolor-purple-300 {
+  background-color: #8c15f9;
+}
+
+.tcolor-purple-400 {
+  color: #9f40f7;
+}
+
+.bgcolor-purple-400 {
+  background-color: #9f40f7;
+}
+
+.tcolor-purple-500 {
+  color: #e3c6fc;
+}
+
+.bgcolor-purple-500 {
+  background-color: #e3c6fc;
+}
+
+.tcolor-blue-100 {
+  color: #2b588a;
+}
+
+.bgcolor-blue-100 {
+  background-color: #2b588a;
+}
+
+.tcolor-blue-200 {
+  color: #5593d7;
+}
+
+.bgcolor-blue-200 {
+  background-color: #5593d7;
+}
+
+.tcolor-blue-300 {
+  color: #b5d1ef;
+}
+
+.bgcolor-blue-300 {
+  background-color: #b5d1ef;
+}
+
+.tcolor-blue-400 {
+  color: #cbdcee;
+}
+
+.bgcolor-blue-400 {
+  background-color: #cbdcee;
+}
+
+.tcolor-blue-500 {
+  color: #dce5ee;
+}
+
+.bgcolor-blue-500 {
+  background-color: #dce5ee;
+}
+
+.tcolor-teal-100 {
+  color: #007f6f;
+}
+
+.bgcolor-teal-100 {
+  background-color: #007f6f;
+}
+
+.tcolor-teal-200 {
+  color: #089f8c;
+}
+
+.bgcolor-teal-200 {
+  background-color: #089f8c;
+}
+
+.tcolor-teal-300 {
+  color: #0fc3ac;
+}
+
+.bgcolor-teal-300 {
+  background-color: #0fc3ac;
+}
+
+.tcolor-teal-400 {
+  color: #45ead5;
+}
+
+.bgcolor-teal-400 {
+  background-color: #45ead5;
+}
+
+.tcolor-teal-500 {
+  color: #b2fdf3;
+}
+
+.bgcolor-teal-500 {
+  background-color: #b2fdf3;
+}
+
+.tcolor-green-100 {
+  color: #4b850c;
+}
+
+.bgcolor-green-100 {
+  background-color: #4b850c;
+}
+
+.tcolor-green-200 {
+  color: #7ab639;
+}
+
+.bgcolor-green-200 {
+  background-color: #7ab639;
+}
+
+.tcolor-green-300 {
+  color: #9ed167;
+}
+
+.bgcolor-green-300 {
+  background-color: #9ed167;
+}
+
+.tcolor-green-400 {
+  color: #b6e97f;
+}
+
+.bgcolor-green-400 {
+  background-color: #b6e97f;
+}
+
+.tcolor-green-500 {
+  color: #d3f7ad;
+}
+
+.bgcolor-green-500 {
+  background-color: #d3f7ad;
+}
+
+.tcolor-orange-100 {
+  color: #f09500;
+}
+
+.bgcolor-orange-100 {
+  background-color: #f09500;
+}
+
+.tcolor-orange-200 {
+  color: #fcb136;
+}
+
+.bgcolor-orange-200 {
+  background-color: #fcb136;
+}
+
+.tcolor-orange-300 {
+  color: #fbc66f;
+}
+
+.bgcolor-orange-300 {
+  background-color: #fbc66f;
+}
+
+.tcolor-orange-400 {
+  color: #ffd898;
+}
+
+.bgcolor-orange-400 {
+  background-color: #ffd898;
+}
+
+.tcolor-orange-500 {
+  color: #fee9c6;
+}
+
+.bgcolor-orange-500 {
+  background-color: #fee9c6;
+}
+
+.tcolor-grey-100 {
+  color: #555555;
+}
+
+.bgcolor-grey-100 {
+  background-color: #555555;
+}
+
+.tcolor-grey-200 {
+  color: #8e8e8e;
+}
+
+.bgcolor-grey-200 {
+  background-color: #8e8e8e;
+}
+
+.tcolor-grey-300 {
+  color: #a0a0a0;
+}
+
+.bgcolor-grey-300 {
+  background-color: #a0a0a0;
+}
+
+.tcolor-grey-400 {
+  color: #c2c1c1;
+}
+
+.bgcolor-grey-400 {
+  background-color: #c2c1c1;
+}
+
+.tcolor-grey-500 {
+  color: #fafafa;
+}
+
+.bgcolor-grey-500 {
+  background-color: #fafafa;
+}
+
+.icon {
+  display: inline-block;
+}
+
+.icon:after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  display: block;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.icon-36 {
+  width: 36px;
+  height: 36px;
+}
+
+.icon-36:after {
+  background-size: 36px;
+}
+
+.icon-24 {
+  width: 24px;
+  height: 24px;
+}
+
+.icon-24:after {
+  background-size: 24px;
+}
+
+.icon-20 {
+  width: 20px;
+  height: 20px;
+}
+
+.icon-20:after {
+  background-size: 20px;
+}
+
+.icon-18 {
+  width: 18px;
+  height: 18px;
+}
+
+.icon-18:after {
+  background-size: 18px;
+}
+
+.icon-16 {
+  width: 16px;
+  height: 16px;
+}
+
+.icon-16:after {
+  background-size: 16px;
+}
+
+.icon-14 {
+  width: 14px;
+  height: 14px;
+}
+
+.icon-14:after {
+  background-size: 14px;
+}
+
+.icon-add:after {
+  background-image: url("../assets/icons/add.svg");
+}
+
+.icon-archive:after {
+  background-image: url("../assets/icons/archive.svg");
+}
+
+.icon-attachment:after {
+  background-image: url("../assets/icons/attachment.svg");
+}
+
+.icon-bell:after {
+  background-image: url("../assets/icons/bell.svg");
+}
+
+.icon-checked:after {
+  background-image: url("../assets/icons/checked.svg");
+}
+
+.icon-checklist:after {
+  background-image: url("../assets/icons/checklist.svg");
+}
+
+.icon-cloud:after {
+  background-image: url("../assets/icons/cloud.svg");
+}
+
+.icon-controls:after {
+  background-image: url("../assets/icons/controls.svg");
+}
+
+.icon-cross:after {
+  background-image: url("../assets/icons/cross.svg");
+}
+
+.icon-download:after {
+  background-image: url("../assets/icons/download.svg");
+}
+
+.icon-filter:after {
+  background-image: url("../assets/icons/filter.svg");
+}
+
+.icon-flag:after {
+  background-image: url("../assets/icons/flag.svg");
+}
+
+.icon-garbage:after {
+  background-image: url("../assets/icons/garbage.svg");
+}
+
+.icon-hamburger:after {
+  background-image: url("../assets/icons/hamburger.svg");
+}
+
+.icon-heart:after {
+  background-image: url("../assets/icons/heart.svg");
+}
+
+.icon-hide:after {
+  background-image: url("../assets/icons/hide.svg");
+}
+
+.icon-home:after {
+  background-image: url("../assets/icons/home.svg");
+}
+
+.icon-horizontal-dots:after {
+  background-image: url("../assets/icons/horizontal-dots.svg");
+}
+
+.icon-hourglass:after {
+  background-image: url("../assets/icons/hourglass.svg");
+}
+
+.icon-key:after {
+  background-image: url("../assets/icons/key.svg");
+}
+
+.icon-login:after {
+  background-image: url("../assets/icons/login.svg");
+}
+
+.icon-logout:after {
+  background-image: url("../assets/icons/logout.svg");
+}
+
+.icon-minus:after {
+  background-image: url("../assets/icons/minus.svg");
+}
+
+.icon-pencil:after {
+  background-image: url("../assets/icons/pencil.svg");
+}
+
+.icon-pin:after {
+  background-image: url("../assets/icons/pin.svg");
+}
+
+.icon-power:after {
+  background-image: url("../assets/icons/power.svg");
+}
+
+.icon-save:after {
+  background-image: url("../assets/icons/save.svg");
+}
+
+.icon-send:after {
+  background-image: url("../assets/icons/send.svg");
+}
+
+.icon-star:after {
+  background-image: url("../assets/icons/star.svg");
+}
+
+.icon-stop-watch:after {
+  background-image: url("../assets/icons/stop-watch.svg");
+}
+
+.icon-target:after {
+  background-image: url("../assets/icons/target.svg");
+}
+
+.icon-unlock:after {
+  background-image: url("../assets/icons/unlock.svg");
+}
+
+.icon-upload:after {
+  background-image: url("../assets/icons/upload.svg");
+}
+
+.icon-vertical-dots:after {
+  background-image: url("../assets/icons/vertical-dots.svg");
+}
+
+.icon-warning:after {
+  background-image: url("../assets/icons/warning.svg");
+}
+
+.icon-zoom-in:after {
+  background-image: url("../assets/icons/zoom-in.svg");
+}
+
+.icon-zoom-out:after {
+  background-image: url("../assets/icons/zoom-out.svg");
+}
+
+.light-icon-add:after {
+  background-image: url("../assets/icons/light/add.svg");
+}
+
+.light-icon-archive:after {
+  background-image: url("../assets/icons/light/archive.svg");
+}
+
+.light-icon-attachment:after {
+  background-image: url("../assets/icons/light/attachment.svg");
+}
+
+.light-icon-bell:after {
+  background-image: url("../assets/icons/light/bell.svg");
+}
+
+.light-icon-checked:after {
+  background-image: url("../assets/icons/light/checked.svg");
+}
+
+.light-icon-checklist:after {
+  background-image: url("../assets/icons/light/checklist.svg");
+}
+
+.light-icon-cloud:after {
+  background-image: url("../assets/icons/light/cloud.svg");
+}
+
+.light-icon-controls:after {
+  background-image: url("../assets/icons/light/controls.svg");
+}
+
+.light-icon-cross:after {
+  background-image: url("../assets/icons/light/cross.svg");
+}
+
+.light-icon-download:after {
+  background-image: url("../assets/icons/light/download.svg");
+}
+
+.light-icon-filter:after {
+  background-image: url("../assets/icons/light/filter.svg");
+}
+
+.light-icon-flag:after {
+  background-image: url("../assets/icons/light/flag.svg");
+}
+
+.light-icon-garbage:after {
+  background-image: url("../assets/icons/light/garbage.svg");
+}
+
+.light-icon-hamburger:after {
+  background-image: url("../assets/icons/light/hamburger.svg");
+}
+
+.light-icon-heart:after {
+  background-image: url("../assets/icons/light/heart.svg");
+}
+
+.light-icon-hide:after {
+  background-image: url("../assets/icons/light/hide.svg");
+}
+
+.light-icon-home:after {
+  background-image: url("../assets/icons/light/home.svg");
+}
+
+.light-icon-horizontal-dots:after {
+  background-image: url("../assets/icons/light/horizontal-dots.svg");
+}
+
+.light-icon-hourglass:after {
+  background-image: url("../assets/icons/light/hourglass.svg");
+}
+
+.light-icon-key:after {
+  background-image: url("../assets/icons/light/key.svg");
+}
+
+.light-icon-login:after {
+  background-image: url("../assets/icons/light/login.svg");
+}
+
+.light-icon-logout:after {
+  background-image: url("../assets/icons/light/logout.svg");
+}
+
+.light-icon-minus:after {
+  background-image: url("../assets/icons/light/minus.svg");
+}
+
+.light-icon-pencil:after {
+  background-image: url("../assets/icons/light/pencil.svg");
+}
+
+.light-icon-pin:after {
+  background-image: url("../assets/icons/light/pin.svg");
+}
+
+.light-icon-power:after {
+  background-image: url("../assets/icons/light/power.svg");
+}
+
+.light-icon-save:after {
+  background-image: url("../assets/icons/light/save.svg");
+}
+
+.light-icon-send:after {
+  background-image: url("../assets/icons/light/send.svg");
+}
+
+.light-icon-star:after {
+  background-image: url("../assets/icons/light/star.svg");
+}
+
+.light-icon-stop-watch:after {
+  background-image: url("../assets/icons/light/stop-watch.svg");
+}
+
+.light-icon-target:after {
+  background-image: url("../assets/icons/light/target.svg");
+}
+
+.light-icon-unlock:after {
+  background-image: url("../assets/icons/light/unlock.svg");
+}
+
+.light-icon-upload:after {
+  background-image: url("../assets/icons/light/upload.svg");
+}
+
+.light-icon-vertical-dots:after {
+  background-image: url("../assets/icons/light/vertical-dots.svg");
+}
+
+.light-icon-warning:after {
+  background-image: url("../assets/icons/light/warning.svg");
+}
+
+.light-icon-zoom-in:after {
+  background-image: url("../assets/icons/light/zoom-in.svg");
+}
+
+.light-icon-zoom-out:after {
+  background-image: url("../assets/icons/light/zoom-out.svg");
+}
+
+.custom-icon-delete:after {
+  background-image: url("../assets/icons/custom/delete.svg");
+}
+
+.custom-icon-delete:hover:after {
+  background-image: url("../assets/icons/custom/delete_hover.svg");
+}
+
+.custom-icon-delete:active:after {
+  background-image: url("../assets/icons/custom/delete_hover.svg");
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>add_normal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="30 0.0005 30 30 0.0001 30 0.0001 0.0005"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="add_normal">
+            <g id="Page-1-Copy" transform="translate(5.000000, 5.000000)">
+                <g id="Group-3">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M30.0001,15.0005 C30.0001,23.2845 23.2841,30.0005 15.0001,30.0005 C6.7161,30.0005 0.0001,23.2845 0.0001,15.0005 C0.0001,6.7155 6.7161,0.0005 15.0001,0.0005 C23.2841,0.0005 30.0001,6.7155 30.0001,15.0005" id="Fill-1" fill="#A0A0A0" mask="url(#mask-2)"></path>
+                </g>
+                <polygon id="Fill-4" fill="#FFFFFF" points="23.7911 12.6255 17.3741 12.6255 17.3741 6.2095 12.6261 6.2095 12.6261 12.6255 6.2091 12.6255 6.2091 17.3745 12.6261 17.3745 12.6261 23.7905 17.3741 23.7905 17.3741 17.3745 23.7911 17.3745"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

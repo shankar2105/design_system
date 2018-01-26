@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>add_pressed</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="5.42101086e-20 0.0003 5.42101086e-20 30 29.9996 30 29.9996 0.0003"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="add_pressed">
+            <g id="Page-1" transform="translate(5.000000, 5.000000)">
+                <g id="Group-3">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M29.9996,15.0003 C29.9996,23.2843 23.2836,30.0003 14.9996,30.0003 C6.7156,30.0003 -0.0004,23.2843 -0.0004,15.0003 C-0.0004,6.7163 6.7156,0.0003 14.9996,0.0003 C23.2836,0.0003 29.9996,6.7163 29.9996,15.0003" id="Fill-1" fill="#2468B2" mask="url(#mask-2)"></path>
+                </g>
+                <polygon id="Fill-4" fill="#FFFFFF" points="23.7906 12.6263 17.3746 12.6263 17.3746 6.2093 12.6256 6.2093 12.6256 12.6263 6.2096 12.6263 6.2096 17.3743 12.6256 17.3743 12.6256 23.7913 17.3746 23.7913 17.3746 17.3743 23.7906 17.3743"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
