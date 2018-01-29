@@ -1,4 +1,9 @@
+// Edit this paths based on the files are placed
+$FontPathOpenSans: "../node_modules/npm-font-open-sans/fonts";
+@import '../node_modules/npm-font-open-sans/open-sans.scss';
+
 @import 'support/index';
 @import 'typography';
 @import 'colors';
 @import 'icons';
+@import 'base';

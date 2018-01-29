@@ -36,7 +36,7 @@
     }
     @if nth($value, 3) {
       .#{$prefix}-#{$name}:active:after {
-        background-image: url("#{$url}#{$name}_hover#{$icons-ext}");
+        background-image: url("#{$url}#{$name}_active#{$icons-ext}");
       }
     }
   }

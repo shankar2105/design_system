@@ -1,3 +1,83 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  font-style: normal;
+  src: url("../node_modules/npm-font-open-sans/fonts/Light/OpenSans-Light.eot");
+  src: url("../node_modules/npm-font-open-sans/fonts/Light/OpenSans-Light.eot?#iefix") format("embedded-opentype"), url("../node_modules/npm-font-open-sans/fonts/Light/OpenSans-Light.woff2") format("woff2"), url("../node_modules/npm-font-open-sans/fonts/Light/OpenSans-Light.woff") format("woff"), url("../node_modules/npm-font-open-sans/fonts/Light/OpenSans-Light.ttf") format("truetype"), url("../node_modules/npm-font-open-sans/fonts/Light/OpenSans-Light.svg#OpenSansLight") format("svg");
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  font-style: italic;
+  src: url("../node_modules/npm-font-open-sans/fonts/LightItalic/OpenSans-LightItalic.eot");
+  src: url("../node_modules/npm-font-open-sans/fonts/LightItalic/OpenSans-LightItalic.eot?#iefix") format("embedded-opentype"), url("../node_modules/npm-font-open-sans/fonts/LightItalic/OpenSans-LightItalic.woff2") format("woff2"), url("../node_modules/npm-font-open-sans/fonts/LightItalic/OpenSans-LightItalic.woff") format("woff"), url("../node_modules/npm-font-open-sans/fonts/LightItalic/OpenSans-LightItalic.ttf") format("truetype"), url("../node_modules/npm-font-open-sans/fonts/LightItalic/OpenSans-LightItalic.svg#OpenSansLightItalic") format("svg");
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: normal;
+  font-style: normal;
+  src: url("../node_modules/npm-font-open-sans/fonts/Regular/OpenSans-Regular.eot");
+  src: url("../node_modules/npm-font-open-sans/fonts/Regular/OpenSans-Regular.eot?#iefix") format("embedded-opentype"), url("../node_modules/npm-font-open-sans/fonts/Regular/OpenSans-Regular.woff2") format("woff2"), url("../node_modules/npm-font-open-sans/fonts/Regular/OpenSans-Regular.woff") format("woff"), url("../node_modules/npm-font-open-sans/fonts/Regular/OpenSans-Regular.ttf") format("truetype"), url("../node_modules/npm-font-open-sans/fonts/Regular/OpenSans-Regular.svg#OpenSansRegular") format("svg");
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: normal;
+  font-style: italic;
+  src: url("../node_modules/npm-font-open-sans/fonts/Italic/OpenSans-Italic.eot");
+  src: url("../node_modules/npm-font-open-sans/fonts/Italic/OpenSans-Italic.eot?#iefix") format("embedded-opentype"), url("../node_modules/npm-font-open-sans/fonts/Italic/OpenSans-Italic.woff2") format("woff2"), url("../node_modules/npm-font-open-sans/fonts/Italic/OpenSans-Italic.woff") format("woff"), url("../node_modules/npm-font-open-sans/fonts/Italic/OpenSans-Italic.ttf") format("truetype"), url("../node_modules/npm-font-open-sans/fonts/Italic/OpenSans-Italic.svg#OpenSansItalic") format("svg");
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 600;
+  font-style: normal;
+  src: url("../node_modules/npm-font-open-sans/fonts/Semibold/OpenSans-Semibold.eot");
+  src: url("../node_modules/npm-font-open-sans/fonts/Semibold/OpenSans-Semibold.eot?#iefix") format("embedded-opentype"), url("../node_modules/npm-font-open-sans/fonts/Semibold/OpenSans-Semibold.woff2") format("woff2"), url("../node_modules/npm-font-open-sans/fonts/Semibold/OpenSans-Semibold.woff") format("woff"), url("../node_modules/npm-font-open-sans/fonts/Semibold/OpenSans-Semibold.ttf") format("truetype"), url("../node_modules/npm-font-open-sans/fonts/Semibold/OpenSans-Semibold.svg#OpenSansSemibold") format("svg");
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 600;
+  font-style: italic;
+  src: url("../node_modules/npm-font-open-sans/fonts/SemiboldItalic/OpenSans-SemiboldItalic.eot");
+  src: url("../node_modules/npm-font-open-sans/fonts/SemiboldItalic/OpenSans-SemiboldItalic.eot?#iefix") format("embedded-opentype"), url("../node_modules/npm-font-open-sans/fonts/SemiboldItalic/OpenSans-SemiboldItalic.woff2") format("woff2"), url("../node_modules/npm-font-open-sans/fonts/SemiboldItalic/OpenSans-SemiboldItalic.woff") format("woff"), url("../node_modules/npm-font-open-sans/fonts/SemiboldItalic/OpenSans-SemiboldItalic.ttf") format("truetype"), url("../node_modules/npm-font-open-sans/fonts/SemiboldItalic/OpenSans-SemiboldItalic.svg#OpenSansSemiboldItalic") format("svg");
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: bold;
+  font-style: normal;
+  src: url("../node_modules/npm-font-open-sans/fonts/Bold/OpenSans-Bold.eot");
+  src: url("../node_modules/npm-font-open-sans/fonts/Bold/OpenSans-Bold.eot?#iefix") format("embedded-opentype"), url("../node_modules/npm-font-open-sans/fonts/Bold/OpenSans-Bold.woff2") format("woff2"), url("../node_modules/npm-font-open-sans/fonts/Bold/OpenSans-Bold.woff") format("woff"), url("../node_modules/npm-font-open-sans/fonts/Bold/OpenSans-Bold.ttf") format("truetype"), url("../node_modules/npm-font-open-sans/fonts/Bold/OpenSans-Bold.svg#OpenSansBold") format("svg");
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: bold;
+  font-style: italic;
+  src: url("../node_modules/npm-font-open-sans/fonts/BoldItalic/OpenSans-BoldItalic.eot");
+  src: url("../node_modules/npm-font-open-sans/fonts/BoldItalic/OpenSans-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../node_modules/npm-font-open-sans/fonts/BoldItalic/OpenSans-BoldItalic.woff2") format("woff2"), url("../node_modules/npm-font-open-sans/fonts/BoldItalic/OpenSans-BoldItalic.woff") format("woff"), url("../node_modules/npm-font-open-sans/fonts/BoldItalic/OpenSans-BoldItalic.ttf") format("truetype"), url("../node_modules/npm-font-open-sans/fonts/BoldItalic/OpenSans-BoldItalic.svg#OpenSansBoldItalic") format("svg");
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 800;
+  font-style: normal;
+  src: url("../node_modules/npm-font-open-sans/fonts/ExtraBold/OpenSans-ExtraBold.eot");
+  src: url("../node_modules/npm-font-open-sans/fonts/ExtraBold/OpenSans-ExtraBold.eot?#iefix") format("embedded-opentype"), url("../node_modules/npm-font-open-sans/fonts/ExtraBold/OpenSans-ExtraBold.woff2") format("woff2"), url("../node_modules/npm-font-open-sans/fonts/ExtraBold/OpenSans-ExtraBold.woff") format("woff"), url("../node_modules/npm-font-open-sans/fonts/ExtraBold/OpenSans-ExtraBold.ttf") format("truetype"), url("../node_modules/npm-font-open-sans/fonts/ExtraBold/OpenSans-ExtraBold.svg#OpenSansExtrabold") format("svg");
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 800;
+  font-style: italic;
+  src: url("../node_modules/npm-font-open-sans/fonts/ExtraBoldItalic/OpenSans-ExtraBoldItalic.eot");
+  src: url("../node_modules/npm-font-open-sans/fonts/ExtraBoldItalic/OpenSans-ExtraBoldItalic.eot?#iefix") format("embedded-opentype"), url("../node_modules/npm-font-open-sans/fonts/ExtraBoldItalic/OpenSans-ExtraBoldItalic.woff2") format("woff2"), url("../node_modules/npm-font-open-sans/fonts/ExtraBoldItalic/OpenSans-ExtraBoldItalic.woff") format("woff"), url("../node_modules/npm-font-open-sans/fonts/ExtraBoldItalic/OpenSans-ExtraBoldItalic.ttf") format("truetype"), url("../node_modules/npm-font-open-sans/fonts/ExtraBoldItalic/OpenSans-ExtraBoldItalic.svg#OpenSansExtraboldItalic") format("svg");
+}
+
 .text-black-1 {
   font-size: 48px;
   font-weight: 800;
@@ -828,5 +908,15 @@
 }
 
 .custom-icon-delete:active:after {
-  background-image: url("../assets/icons/custom/delete_hover.svg");
+  background-image: url("../assets/icons/custom/delete_active.svg");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans';
 }
