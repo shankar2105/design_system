@@ -899,16 +899,28 @@
   background-image: url("../assets/icons/light/zoom-out.svg");
 }
 
-.custom-icon-delete:after {
-  background-image: url("../assets/icons/custom/delete.svg");
+.custom-icon-maidsafe_mark:after {
+  background-image: url("../assets/icons/custom/maidsafe_mark.svg");
 }
 
-.custom-icon-delete:hover:after {
-  background-image: url("../assets/icons/custom/delete_hover.svg");
+.custom-icon-maidsafe_mark:hover:after {
+  background-image: url("../assets/icons/custom/maidsafe_mark_hover.svg");
 }
 
-.custom-icon-delete:active:after {
-  background-image: url("../assets/icons/custom/delete_active.svg");
+.custom-icon-maidsafe_mark:active:after {
+  background-image: url("../assets/icons/custom/maidsafe_mark_active.svg");
+}
+
+.custom-icon-safe_mark:after {
+  background-image: url("../assets/icons/custom/safe_mark.svg");
+}
+
+.custom-icon-safe_mark:hover:after {
+  background-image: url("../assets/icons/custom/safe_mark_hover.svg");
+}
+
+.custom-icon-safe_mark:active:after {
+  background-image: url("../assets/icons/custom/safe_mark_active.svg");
 }
 
 * {
