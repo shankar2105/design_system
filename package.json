@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/shankar2105/design_system#readme",
   "dependencies": {
-    "node-sass": "^4.7.2",
-    "npm-font-open-sans": "^1.1.0"
+    "node-sass": "^4.7.2"
   }
 }
