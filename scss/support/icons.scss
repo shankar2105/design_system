@@ -55,6 +55,6 @@ $icon-list: (
 ) !default;
 
 $custom-icon-list: (
-  maidsafe_mark: (true, true, true),
-  safe_mark: (true, true, true)
+  maidsafe_mark: (true, false, false),
+  safe_mark: (true, false, false)
 ) !default;
